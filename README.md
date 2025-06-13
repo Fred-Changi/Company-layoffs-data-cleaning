@@ -1,4 +1,6 @@
 This Project is a Data Cleaning activity using SQL.
+
+
 Author
 The author of this project is Fred Changi and can be reached at fredojiem@gmail.com .
 
